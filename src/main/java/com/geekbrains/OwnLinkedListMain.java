@@ -19,4 +19,5 @@ public class OwnLinkedListMain {
         Integer[] arr = {150, 347, 111};
         System.out.println(arr[1]);
     }
+
 }
