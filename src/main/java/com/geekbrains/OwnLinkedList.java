@@ -109,4 +109,5 @@ public class OwnLinkedList<T> {
             this.next = null;
         }
     }
+
 }
